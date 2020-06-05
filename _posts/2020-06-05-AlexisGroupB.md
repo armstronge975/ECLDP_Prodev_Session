@@ -1,5 +1,5 @@
 ---
-"This summer I'm looking forward to..."
+title: "This summer I'm looking forward to..."
 author: Alexis Kirkman
 date: 2020-06-05
 ---
