@@ -8,4 +8,4 @@ kayaking
 
 ![kayaking](https://upload.wikimedia.org/wikipedia/commons/4/4c/Boy_paddling_in_a_kayak.jpg)
 
-Comment your reply here.
+"Content length exceeded" when i click on your image, must be a super long kayak ride...
