@@ -6,6 +6,6 @@ date: 2020-06-05
 
 kayaking
 
-![kayaking](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sea_Kayak.JPG)
+![kayaking](https://upload.wikimedia.org/wikipedia/commons/4/4c/Boy_paddling_in_a_kayak.jpg)
 
 Comment your reply here.
