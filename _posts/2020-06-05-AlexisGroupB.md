@@ -1,5 +1,5 @@
 ---
-title: the prompt of your choice e.g. "This summer I'm looking forward to..."
+"This summer I'm looking forward to..."
 author: Alexis Kirkman
 date: 2020-06-05
 ---
